@@ -1,4 +1,4 @@
-# Hierarchical-Zeolites-
+#  Synthesis and application of Hierarchical Zeolites
 
 # Objective of the Project
 Designing and executing laboratory experiments for the synthesis of hierarchical zeolites, focusing on enhancing porosity and catalytic performance. Applied statistical Design of Experiments (DOE) using Minitab/JMP to systematically optimize synthesis parameters such as temperature, time, and surfactant concentration.
