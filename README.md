@@ -3,6 +3,7 @@ Designing and executing laboratory experiments for the synthesis of hierarchical
 Studying the catalytic performance of synthesized hierarchical zeolites by evaluating conversion rates and product selectivity in model reactions. Conducted detailed material characterization using techniques such as BET and T-plot.
 
 Canva Presentation Link- https://www.canva.com/design/DAGoFOwYMBc/Sc-mpO-gzNtfAvgz0cNzkQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
+
 references used- 
 1. https://pubs.acs.org/doi/10.1021/la5026679
 2. https://onlinelibrary.wiley.com/doi/10.1002/ppsc.200601009
