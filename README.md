@@ -1,8 +1,16 @@
 #  Synthesis and application of Hierarchical Zeolites
 
-# Objective of the Project
-Designing and executing laboratory experiments for the synthesis of hierarchical zeolites, focusing on enhancing porosity and catalytic performance. Applied statistical Design of Experiments (DOE) using Minitab/JMP to systematically optimize synthesis parameters such as temperature, time, and surfactant concentration.
-Studying the catalytic performance of synthesized hierarchical zeolites by evaluating conversion rates and product selectivity in model reactions. Conducted detailed material characterization using techniques such as BET and T-plot.
+# Introduction
+Zeolites are crystalline microporous aluminosilicates widely used in catalysis, adsorption, and ion-exchange processes due to their high thermal stability, shape selectivity, and tunable acidity. However, their purely microporous nature often limits the diffusion of bulky molecules, reducing catalytic efficiency in reactions involving large substrates. To overcome these limitations, hierarchical zeolites—materials with integrated micro- and mesoporosity—have emerged as a promising class of catalysts that combine the intrinsic benefits of conventional zeolites with enhanced mass transport and accessibility.
+
+This project focuses on the design, synthesis, and application of hierarchical zeolites with tailored porosity for improved catalytic performance. By systematically modifying synthesis parameters, hierarchical frameworks can be engineered to achieve desired textural and structural properties. Advanced material characterization and catalytic testing are essential to correlate synthesis conditions with performance outcomes.
+
+# Objective
+1. To synthesize hierarchical zeolites with enhanced mesoporosity using surfactant-assisted templating and optimized hydrothermal synthesis conditions.
+2. To apply statistical Design of Experiments (DOE) techniques using software such as Minitab or JMP to systematically optimize critical synthesis parameters, including temperature, time, and surfactant concentration.
+3. To characterize the synthesized materials using techniques such as BET surface area analysis and T-plot to assess micro- and mesoporosity.
+4. To evaluate the catalytic performance of the hierarchical zeolites in model reactions by measuring conversion rates and product selectivity.
+5. To establish structure–performance correlations to guide the rational design of high-efficiency hierarchical zeolite catalysts for industrial applications.
 
 # Created By - 
 Vedika Butle [230008012]- B.Tech.Chemical Engineering, IIT Indore
